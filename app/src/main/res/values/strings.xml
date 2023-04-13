@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio04Gomez</string>
+    <string name="nombre">nombre</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">telefono</string>
+    <string name="nombre_nuevo">Nombre: %s</string>
+</resources>
